@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "iconfont logo";
+  src: url('https://at.alicdn.com/t/font_985780_km7mi63cihi.eot?t=1545807318834');
+  src: url('https://at.alicdn.com/t/font_985780_km7mi63cihi.eot?t=1545807318834#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_985780_km7mi63cihi.woff?t=1545807318834') format('woff'),
+    url('https://at.alicdn.com/t/font_985780_km7mi63cihi.ttf?t=1545807318834') format('truetype'),
+    url('https://at.alicdn.com/t/font_985780_km7mi63cihi.svg?t=1545807318834#iconfont') format('svg');
+}
+
+.logo {
+  font-family: "iconfont logo";
+  font-size: 160px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shenghuo:before {
+  content: "\e665";
+}
+
+.icon-yifu:before {
+  content: "\e666";
+}
+
+.icon-jiadian:before {
+  content: "\e633";
+}
+
+.icon-icon-test:before {
+  content: "\e604";
+}
+
+.icon-position:before {
+  content: "\e605";
+}
+
+.icon-dizhi:before {
+  content: "\e652";
+}
+
+.icon-tubiaolunkuo-:before {
+  content: "\e615";
+}
+
+.icon-shipin:before {
+  content: "\e68b";
+}
+
+.icon-saoma:before {
+  content: "\e606";
+}
+
+.icon-tupian:before {
+  content: "\e664";
+}
+
+.icon-lianxifangshi:before {
+  content: "\e637";
+}
+
